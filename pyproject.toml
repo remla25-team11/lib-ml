@@ -1,6 +1,6 @@
 [project]
 name = "lib-ml"
-version = "0.1.0"
+version = "0.1.1"
 description = "Reusable preprocessing library for sentiment analysis"
 authors = [{name = "Your Name", email = "your@email.com"}]
 readme = "README.md"
