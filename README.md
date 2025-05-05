@@ -14,4 +14,4 @@
 You can install the package directly via GitHub using:
 
 ```bash
-pip install git+https://github.com/remla25-team11/lib-ml@v0.1.1
+pip install git+https://github.com/remla25-team11/lib-ml@v0.1.2
